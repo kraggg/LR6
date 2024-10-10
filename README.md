@@ -13,15 +13,15 @@
 
 Далее создаем свою ветку с помощью git branch krsggs_branch и пушим ее.
 
-![[Пушим ветку](./images/пуш_ветки.png)
+![Пушим ветку](./images/пуш_ветки.png)
 
 Далее получаем историю коммитов с обеих веток.
 
-![[Получаем историю операций](./images/last_updates.png)
+![Получаем историю операций](./images/last_updates.png)
 
 Теперь делаем merge веток.
 
-![[Объединяем ветки](./images/merge.png)
+![Объединяем ветки](./images/merge.png)
 
 Далее удаляем ветку с помощью git push origin --delete krsggs_branch удаленно и с помощью git branch -D krsggs_branch локально.
 
